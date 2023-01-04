@@ -1,0 +1,8 @@
+explanation
+
+all APIs
+
+1)http://localhost:3000/adduser      --------> post APi for add user detail name,number,age,picode,address 
+2)http://localhost:3000/creatAccount  --------> post APi for create new account in this numner and password will be store in data base
+3)http://localhost:3000/login         --------> post API  user will login with numner and password enter during registration
+4)http://localhost:3000/totalUserRegister  ------> get API for showing data for admin
